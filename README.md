@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 
 ## Connect with me<img src="https://media2.giphy.com/media/AEtG3ZjmW9rErXXzzg/giphy.gif?cid=6c09b952lvlr7gudsqrr8vbuhkre4phaw3w8qtbc076870gp&rid=giphy.gif&ct=s" width="35px">🌝
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-abraham-shibu-6576731ab/) [![] 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-abraham-shibu-6576731ab/) 
